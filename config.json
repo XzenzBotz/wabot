@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["628988986891@s.whatsapp.net","62895609803131@s.whatsapp.net","622139504726@s.whatsapp.net"],
+    "ownerName": "𝘈𝘬𝘮𝘢𝘭𝘭 𝘕𝘻",
+    "instagram" : "https://instagram.com/xzennz_",
+    "botName": "𝑿𝒛𝒏 𝑩𝒐𝒕",
+    "footer": "𝑿𝒛𝒏 𝑩𝒐𝒕",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}

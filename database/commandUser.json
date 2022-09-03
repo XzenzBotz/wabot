@@ -1,0 +1,51 @@
+[
+  {
+    "jid": "628988986891@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 9
+      },
+      {
+        "nama": "#speed",
+        "count": 2
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#tomp3",
+        "count": 1
+      },
+      {
+        "nama": "#tiktokaudio",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 2
+      },
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#group",
+        "count": 1
+      },
+      {
+        "nama": "#runtime",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  }
+]
